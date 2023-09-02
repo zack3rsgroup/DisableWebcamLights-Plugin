@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PluginInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Disable Webcam Lights</Name>
+  <Description>Disable webcam LED for QuickCam versions 11.5.0.1169 thru 11.9.0.1263 and some Leonvo webcams on startup, requires administrator rights. Uninstall will reenable them.</Description>
+  <Author>Sorzus</Author>
+  <AuthorUrl>https://www.github.com/Sorzus</AuthorUrl>
+  <Guid>e6ee5674-bb94-46c7-8bbc-5729af6e2c28</Guid>
+  <Version>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </Version>
+  <Thumbnail>thumbnail.png</Thumbnail>
+  <PluginType>Client</PluginType>
+  <Library1>DisableWebcamLights.dll</Library1>
+</PluginInfo>
